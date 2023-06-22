@@ -1,5 +1,5 @@
 # Blog-Writer-Project-with-Asp.Net-Core-5.0
- This project was developed with Murat Yücedağ in ASP.Net Core 5 camp.
+This project was developed with ASP.Net Core 5.0 
  Projede aşağıdaki mimari ve teknolojileri kullanarak en katmanlı bir yapı oluşturdum:
 
 * Generic Repository: Veritabanı işlemlerini genel bir yapıda gerçekleştirmek amacıyla Generic Repository tasarım desenini kullandım.
